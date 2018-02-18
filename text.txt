@@ -1,1 +1,2 @@
 this is a text file for homework
+step 3 made some new changes to old text file
